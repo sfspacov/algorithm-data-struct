@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E17BF2CE-9C37-4843-8EDB-F7ACB2A0365E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="01-13-sending-newsletters/Program.cs">
+    <Files>
+      <File FileName="01-13-sending-newsletters/Program.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01-13-sending-newsletters" expanded="True">
+            <Node name="01-13-sending-newsletters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01-13-sending-newsletters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

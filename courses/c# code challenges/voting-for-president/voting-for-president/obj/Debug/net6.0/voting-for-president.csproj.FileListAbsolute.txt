@@ -1,0 +1,15 @@
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\bin\Debug\net6.0\voting-for-president.exe
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\bin\Debug\net6.0\voting-for-president.deps.json
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\bin\Debug\net6.0\voting-for-president.runtimeconfig.json
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\bin\Debug\net6.0\voting-for-president.dll
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\bin\Debug\net6.0\voting-for-president.pdb
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.AssemblyInfo.cs
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.dll
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\refint\voting-for-president.dll
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.pdb
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\voting-for-president.genruntimeconfig.cache
+C:\src\personal\hackerrank\voting-for-president\voting-for-president\obj\Debug\net6.0\ref\voting-for-president.dll

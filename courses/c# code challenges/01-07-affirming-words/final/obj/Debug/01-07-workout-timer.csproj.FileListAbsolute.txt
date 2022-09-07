@@ -1,0 +1,6 @@
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-07-workout-timer/01-07-workout-timer/bin/Debug/01-07-workout-timer.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-07-workout-timer/01-07-workout-timer/bin/Debug/01-07-workout-timer.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-07-workout-timer/01-07-workout-timer/obj/Debug/01-07-workout-timer.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-07-workout-timer/01-07-workout-timer/obj/Debug/01-07-workout-timer.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-07-workout-timer/01-07-workout-timer/obj/Debug/01-07-workout-timer.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-07-workout-timer/01-07-workout-timer/obj/Debug/01-07-workout-timer.pdb

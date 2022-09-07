@@ -1,0 +1,6 @@
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-extending-classes/bin/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-extending-classes/bin/Debug/01-06-extending-classes.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-extending-classes/obj/Debug/01-06-extending-classes.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-extending-classes/obj/Debug/01-06-extending-classes.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-extending-classes/obj/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-extending-classes/obj/Debug/01-06-extending-classes.pdb

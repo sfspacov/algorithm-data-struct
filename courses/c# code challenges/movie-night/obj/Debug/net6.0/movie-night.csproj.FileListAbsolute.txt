@@ -1,0 +1,15 @@
+C:\src\personal\c# code challenges\movie-night\bin\Debug\net6.0\movie-night.exe
+c:\src\personal\c# code challenges\movie-night\bin\Debug\net6.0\movie-night.deps.json
+c:\src\personal\c# code challenges\movie-night\bin\Debug\net6.0\movie-night.runtimeconfig.json
+C:\src\personal\c# code challenges\movie-night\bin\Debug\net6.0\movie-night.dll
+C:\src\personal\c# code challenges\movie-night\bin\Debug\net6.0\movie-night.pdb
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.csproj.AssemblyReference.cache
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.AssemblyInfoInputs.cache
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.AssemblyInfo.cs
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.csproj.CoreCompileInputs.cache
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.dll
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\refint\movie-night.dll
+C:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.pdb
+c:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\movie-night.genruntimeconfig.cache
+c:\src\personal\c# code challenges\movie-night\obj\Debug\net6.0\ref\movie-night.dll

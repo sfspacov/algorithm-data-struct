@@ -1,0 +1,15 @@
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\bin\Debug\net6.0\CountingVowels.exe
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\bin\Debug\net6.0\CountingVowels.deps.json
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\bin\Debug\net6.0\CountingVowels.runtimeconfig.json
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\bin\Debug\net6.0\CountingVowels.dll
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\bin\Debug\net6.0\CountingVowels.pdb
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.csproj.AssemblyReference.cache
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.AssemblyInfoInputs.cache
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.AssemblyInfo.cs
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.csproj.CoreCompileInputs.cache
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.dll
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\refint\CountingVowels.dll
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.pdb
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\CountingVowels.genruntimeconfig.cache
+C:\src\personal\c# code challenges\CountingVowels\CountingVowels\obj\Debug\net6.0\ref\CountingVowels.dll

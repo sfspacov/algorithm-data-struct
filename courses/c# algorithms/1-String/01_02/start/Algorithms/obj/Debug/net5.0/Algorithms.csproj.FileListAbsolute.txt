@@ -1,0 +1,16 @@
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\bin\Debug\net5.0\Algorithms.exe
+c:\src\personal\c# algorithms\01\01_02\start\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+c:\src\personal\c# algorithms\01\01_02\start\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+c:\src\personal\c# algorithms\01\01_02\start\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\bin\Debug\net5.0\Algorithms.dll
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.csproj.AssemblyReference.cache
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.dll
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\refint\Algorithms.dll
+C:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+c:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache
+c:\src\personal\c# algorithms\01\01_02\start\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll

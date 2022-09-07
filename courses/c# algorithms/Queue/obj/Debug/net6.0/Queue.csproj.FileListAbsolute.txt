@@ -1,0 +1,15 @@
+C:\src\personal\c# algorithms\Queue\bin\Debug\net6.0\Queue.exe
+c:\src\personal\c# algorithms\Queue\bin\Debug\net6.0\Queue.deps.json
+c:\src\personal\c# algorithms\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\src\personal\c# algorithms\Queue\bin\Debug\net6.0\Queue.dll
+C:\src\personal\c# algorithms\Queue\bin\Debug\net6.0\Queue.pdb
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.dll
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\refint\Queue.dll
+C:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.pdb
+c:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+c:\src\personal\c# algorithms\Queue\obj\Debug\net6.0\ref\Queue.dll

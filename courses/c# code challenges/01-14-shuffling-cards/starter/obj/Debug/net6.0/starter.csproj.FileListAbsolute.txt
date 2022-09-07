@@ -1,0 +1,15 @@
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\bin\Debug\net6.0\starter.exe
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\bin\Debug\net6.0\starter.deps.json
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\bin\Debug\net6.0\starter.runtimeconfig.json
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\bin\Debug\net6.0\starter.dll
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\bin\Debug\net6.0\starter.pdb
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.csproj.AssemblyReference.cache
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.AssemblyInfoInputs.cache
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.AssemblyInfo.cs
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.csproj.CoreCompileInputs.cache
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.dll
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\refint\starter.dll
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.pdb
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\starter.genruntimeconfig.cache
+C:\src\personal\c# code challenges\01-14-shuffling-cards\starter\obj\Debug\net6.0\ref\starter.dll

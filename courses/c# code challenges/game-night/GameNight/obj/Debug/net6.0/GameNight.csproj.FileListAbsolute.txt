@@ -1,0 +1,15 @@
+C:\src\personal\c# code challenges\game-night\GameNight\bin\Debug\net6.0\GameNight.exe
+C:\src\personal\c# code challenges\game-night\GameNight\bin\Debug\net6.0\GameNight.deps.json
+C:\src\personal\c# code challenges\game-night\GameNight\bin\Debug\net6.0\GameNight.runtimeconfig.json
+C:\src\personal\c# code challenges\game-night\GameNight\bin\Debug\net6.0\GameNight.dll
+C:\src\personal\c# code challenges\game-night\GameNight\bin\Debug\net6.0\GameNight.pdb
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.csproj.AssemblyReference.cache
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.AssemblyInfoInputs.cache
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.AssemblyInfo.cs
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.csproj.CoreCompileInputs.cache
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.dll
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\refint\GameNight.dll
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.pdb
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\GameNight.genruntimeconfig.cache
+C:\src\personal\c# code challenges\game-night\GameNight\obj\Debug\net6.0\ref\GameNight.dll

@@ -1,0 +1,18 @@
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-movie-night/bin/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-movie-night/bin/Debug/01-06-extending-classes.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-movie-night/obj/Debug/01-06-movie-night.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-movie-night/obj/Debug/01-06-movie-night.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-movie-night/obj/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-06-extending-classes/01-06-movie-night/obj/Debug/01-06-extending-classes.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night-final/bin/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night-final/bin/Debug/01-06-extending-classes.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night-final/obj/Debug/01-06-movie-night.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night-final/obj/Debug/01-06-movie-night.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night-final/obj/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night-final/obj/Debug/01-06-extending-classes.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night/final/bin/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night/final/bin/Debug/01-06-extending-classes.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night/final/obj/Debug/01-06-movie-night.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night/final/obj/Debug/01-06-movie-night.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night/final/obj/Debug/01-06-extending-classes.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-06-movie-night/final/obj/Debug/01-06-extending-classes.pdb

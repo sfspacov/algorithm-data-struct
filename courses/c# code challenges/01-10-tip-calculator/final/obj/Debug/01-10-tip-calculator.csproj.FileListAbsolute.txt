@@ -1,0 +1,6 @@
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-10-tip-calculator/01-10-tip-calculator/bin/Debug/01-10-tip-calculator.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-10-tip-calculator/01-10-tip-calculator/bin/Debug/01-10-tip-calculator.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-10-tip-calculator/01-10-tip-calculator/obj/Debug/01-10-tip-calculator.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-10-tip-calculator/01-10-tip-calculator/obj/Debug/01-10-tip-calculator.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-10-tip-calculator/01-10-tip-calculator/obj/Debug/01-10-tip-calculator.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-10-tip-calculator/01-10-tip-calculator/obj/Debug/01-10-tip-calculator.pdb

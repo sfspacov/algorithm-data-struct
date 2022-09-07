@@ -1,0 +1,15 @@
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\bin\Debug\net6.0\decomposing-urls.exe
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\bin\Debug\net6.0\decomposing-urls.deps.json
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\bin\Debug\net6.0\decomposing-urls.runtimeconfig.json
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\bin\Debug\net6.0\decomposing-urls.dll
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\bin\Debug\net6.0\decomposing-urls.pdb
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.csproj.AssemblyReference.cache
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.AssemblyInfoInputs.cache
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.AssemblyInfo.cs
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.csproj.CoreCompileInputs.cache
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.dll
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\refint\decomposing-urls.dll
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.pdb
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\decomposing-urls.genruntimeconfig.cache
+C:\src\personal\c# code challenges\decomposing-urls\decomposing-urls\obj\Debug\net6.0\ref\decomposing-urls.dll
