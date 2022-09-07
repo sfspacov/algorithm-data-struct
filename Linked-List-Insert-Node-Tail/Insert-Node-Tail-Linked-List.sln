@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert-Node-Tail-Linked-List", "Insert-Node-Tail-Linked-List\Insert-Node-Tail-Linked-List.csproj", "{FCDB2EC7-7C8C-4162-8CC4-EFEFD27A7896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDB2EC7-7C8C-4162-8CC4-EFEFD27A7896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDB2EC7-7C8C-4162-8CC4-EFEFD27A7896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDB2EC7-7C8C-4162-8CC4-EFEFD27A7896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDB2EC7-7C8C-4162-8CC4-EFEFD27A7896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B7FA49-2667-43C1-A004-F4D2440B3434}
+	EndGlobalSection
+EndGlobal
