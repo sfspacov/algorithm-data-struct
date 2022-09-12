@@ -1,0 +1,15 @@
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\bin\Debug\net6.0\LinkedList-AddToHead.exe
+c:\src\algorithms\hackerrank\LinkedList-AddToHead\bin\Debug\net6.0\LinkedList-AddToHead.deps.json
+c:\src\algorithms\hackerrank\LinkedList-AddToHead\bin\Debug\net6.0\LinkedList-AddToHead.runtimeconfig.json
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\bin\Debug\net6.0\LinkedList-AddToHead.dll
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\bin\Debug\net6.0\LinkedList-AddToHead.pdb
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.csproj.AssemblyReference.cache
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.AssemblyInfoInputs.cache
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.AssemblyInfo.cs
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.csproj.CoreCompileInputs.cache
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.dll
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\refint\LinkedList-AddToHead.dll
+C:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.pdb
+c:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\LinkedList-AddToHead.genruntimeconfig.cache
+c:\src\algorithms\hackerrank\LinkedList-AddToHead\obj\Debug\net6.0\ref\LinkedList-AddToHead.dll

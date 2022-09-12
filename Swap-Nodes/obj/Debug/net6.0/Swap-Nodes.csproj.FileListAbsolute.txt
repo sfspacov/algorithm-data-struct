@@ -1,0 +1,15 @@
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.csproj.AssemblyReference.cache
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.AssemblyInfoInputs.cache
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.AssemblyInfo.cs
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.csproj.CoreCompileInputs.cache
+C:\src\algorithms\codes\Swap-Nodes\bin\Debug\net6.0\Swap-Nodes.exe
+C:\src\algorithms\codes\Swap-Nodes\bin\Debug\net6.0\Swap-Nodes.deps.json
+C:\src\algorithms\codes\Swap-Nodes\bin\Debug\net6.0\Swap-Nodes.runtimeconfig.json
+C:\src\algorithms\codes\Swap-Nodes\bin\Debug\net6.0\Swap-Nodes.dll
+C:\src\algorithms\codes\Swap-Nodes\bin\Debug\net6.0\Swap-Nodes.pdb
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.dll
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\refint\Swap-Nodes.dll
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.pdb
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\Swap-Nodes.genruntimeconfig.cache
+C:\src\algorithms\codes\Swap-Nodes\obj\Debug\net6.0\ref\Swap-Nodes.dll

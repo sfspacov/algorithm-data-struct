@@ -1,0 +1,16 @@
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.csproj.AssemblyReference.cache
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.AssemblyInfoInputs.cache
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.AssemblyInfo.cs
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.csproj.CoreCompileInputs.cache
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\bin\Debug\net5.0\Group-Anagrams.exe
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\bin\Debug\net5.0\Group-Anagrams.deps.json
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\bin\Debug\net5.0\Group-Anagrams.runtimeconfig.json
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\bin\Debug\net5.0\Group-Anagrams.runtimeconfig.dev.json
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\bin\Debug\net5.0\Group-Anagrams.dll
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\bin\Debug\net5.0\Group-Anagrams.pdb
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.dll
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\refint\Group-Anagrams.dll
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.pdb
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\Group-Anagrams.genruntimeconfig.cache
+C:\src\personal\algorithms\neetcode\Group-Anagrams\Group-Anagrams\obj\Debug\net5.0\ref\Group-Anagrams.dll

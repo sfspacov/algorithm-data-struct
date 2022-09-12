@@ -1,0 +1,15 @@
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.AssemblyInfo.cs
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\bin\Debug\net6.0\Simple-Text-Editor.exe
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\bin\Debug\net6.0\Simple-Text-Editor.deps.json
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\bin\Debug\net6.0\Simple-Text-Editor.runtimeconfig.json
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\bin\Debug\net6.0\Simple-Text-Editor.dll
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\bin\Debug\net6.0\Simple-Text-Editor.pdb
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.dll
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\refint\Simple-Text-Editor.dll
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.pdb
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\Simple-Text-Editor.genruntimeconfig.cache
+C:\src\personal\hackerrank\Simple-Text-Editor\Simple-Text-Editor\obj\Debug\net6.0\ref\Simple-Text-Editor.dll

@@ -1,0 +1,16 @@
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\bin\Debug\net5.0\Recursive-Digit-Sum.exe
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\bin\Debug\net5.0\Recursive-Digit-Sum.deps.json
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\bin\Debug\net5.0\Recursive-Digit-Sum.runtimeconfig.json
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\bin\Debug\net5.0\Recursive-Digit-Sum.runtimeconfig.dev.json
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\bin\Debug\net5.0\Recursive-Digit-Sum.dll
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\bin\Debug\net5.0\Recursive-Digit-Sum.pdb
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.AssemblyInfo.cs
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.dll
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\refint\Recursive-Digit-Sum.dll
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.pdb
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\Recursive-Digit-Sum.genruntimeconfig.cache
+C:\src\personal\hackerrank\Recursive-Digit-Sum\Recursive-Digit-Sum\obj\Debug\net5.0\ref\Recursive-Digit-Sum.dll

@@ -1,0 +1,16 @@
+C:\src\personal\hackerrank\plus-minus\plus-minus\bin\Debug\net5.0\plus-minus.exe
+C:\src\personal\hackerrank\plus-minus\plus-minus\bin\Debug\net5.0\plus-minus.deps.json
+C:\src\personal\hackerrank\plus-minus\plus-minus\bin\Debug\net5.0\plus-minus.runtimeconfig.json
+C:\src\personal\hackerrank\plus-minus\plus-minus\bin\Debug\net5.0\plus-minus.runtimeconfig.dev.json
+C:\src\personal\hackerrank\plus-minus\plus-minus\bin\Debug\net5.0\plus-minus.dll
+C:\src\personal\hackerrank\plus-minus\plus-minus\bin\Debug\net5.0\plus-minus.pdb
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.AssemblyInfo.cs
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.dll
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\refint\plus-minus.dll
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.pdb
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\plus-minus.genruntimeconfig.cache
+C:\src\personal\hackerrank\plus-minus\plus-minus\obj\Debug\net5.0\ref\plus-minus.dll
