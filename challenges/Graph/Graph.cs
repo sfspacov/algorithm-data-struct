@@ -33,18 +33,19 @@ class Graph
 
         while (queue.Any())
         {
-            var currentNode = queue.Dequeue();
-            Console.WriteLine(currentNode);
-            visited.Add(currentNode);
+            var nodeValue = queue.Dequeue();
+            Console.WriteLine(nodeValue);
+            visited.Add(nodeValue);
 
-            foreach (var vertice in Nodes.First(x => x.Key == currentNode).Value)
+            var vertices = new HashSet<int>(Nodes.First(x => x.Key == nodeValue).Value);
+
+            if (vertices.Any())
             {
-                if (!visited.Contains(vertice))
-                {
-                    queue.Enqueue(vertice);
-                }
-            }
+                vertices.ExceptWith(visited);
 
+                foreach (var vertice in vertices)
+                    queue.Enqueue(vertice);
+            }
 
             if (Nodes.Count == visited.Count)
                 break;
@@ -63,16 +64,18 @@ class Graph
 
         while (stack.Any())
         {
-            var currentNode = stack.Pop();
-            Console.WriteLine(currentNode);
-            visited.Add(currentNode);
+            var nodeValue = stack.Pop();
+            Console.WriteLine(nodeValue);
+            visited.Add(nodeValue);
 
-            foreach (var vertice in Nodes.First(x => x.Key == currentNode).Value)
+            var vertices = new HashSet<int>(Nodes.First(x => x.Key == nodeValue).Value);
+            
+            if (vertices.Any())
             {
-                if (!visited.Contains(vertice))
-                {
+                vertices.ExceptWith(visited);
+
+                foreach (var vertice in vertices)
                     stack.Push(vertice);
-                }
             }
 
             if (visited.Count == Nodes.Count)
