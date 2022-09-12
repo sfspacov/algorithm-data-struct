@@ -1,0 +1,15 @@
+C:\src\algorithms\codes\Minimum-Window-Substring\bin\Debug\net6.0\Minimum-Window-Substring.exe
+C:\src\algorithms\codes\Minimum-Window-Substring\bin\Debug\net6.0\Minimum-Window-Substring.deps.json
+C:\src\algorithms\codes\Minimum-Window-Substring\bin\Debug\net6.0\Minimum-Window-Substring.runtimeconfig.json
+C:\src\algorithms\codes\Minimum-Window-Substring\bin\Debug\net6.0\Minimum-Window-Substring.dll
+C:\src\algorithms\codes\Minimum-Window-Substring\bin\Debug\net6.0\Minimum-Window-Substring.pdb
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.csproj.AssemblyReference.cache
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.AssemblyInfoInputs.cache
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.AssemblyInfo.cs
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.csproj.CoreCompileInputs.cache
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.dll
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\refint\Minimum-Window-Substring.dll
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.pdb
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\Minimum-Window-Substring.genruntimeconfig.cache
+C:\src\algorithms\codes\Minimum-Window-Substring\obj\Debug\net6.0\ref\Minimum-Window-Substring.dll

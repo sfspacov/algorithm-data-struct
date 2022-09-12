@@ -1,0 +1,16 @@
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.exe
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.deps.json
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.runtimeconfig.json
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.runtimeconfig.dev.json
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.dll
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.pdb
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.csproj.AssemblyReference.cache
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.AssemblyInfoInputs.cache
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.AssemblyInfo.cs
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.csproj.CoreCompileInputs.cache
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.dll
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\refint\ContainsDuplicate.dll
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.pdb
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.genruntimeconfig.cache
+C:\src\personal\algorithms\neetcode\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ref\ContainsDuplicate.dll

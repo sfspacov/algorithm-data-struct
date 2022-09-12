@@ -1,0 +1,15 @@
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\bin\Debug\net6.0\PrintBinary.exe
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\bin\Debug\net6.0\PrintBinary.deps.json
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\bin\Debug\net6.0\PrintBinary.runtimeconfig.json
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\bin\Debug\net6.0\PrintBinary.dll
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\bin\Debug\net6.0\PrintBinary.pdb
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.AssemblyInfo.cs
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.dll
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\refint\PrintBinary.dll
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.pdb
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\PrintBinary.genruntimeconfig.cache
+C:\src\personal\hackerrank\PrintBinary\PrintBinary\obj\Debug\net6.0\ref\PrintBinary.dll

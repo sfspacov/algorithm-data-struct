@@ -1,0 +1,15 @@
+C:\src\algorithms\codes\KthPermutation\bin\Debug\net6.0\KthPermutation.exe
+C:\src\algorithms\codes\KthPermutation\bin\Debug\net6.0\KthPermutation.deps.json
+C:\src\algorithms\codes\KthPermutation\bin\Debug\net6.0\KthPermutation.runtimeconfig.json
+C:\src\algorithms\codes\KthPermutation\bin\Debug\net6.0\KthPermutation.dll
+C:\src\algorithms\codes\KthPermutation\bin\Debug\net6.0\KthPermutation.pdb
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.csproj.AssemblyReference.cache
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.AssemblyInfoInputs.cache
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.AssemblyInfo.cs
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.csproj.CoreCompileInputs.cache
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.dll
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\refint\KthPermutation.dll
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.pdb
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\KthPermutation.genruntimeconfig.cache
+C:\src\algorithms\codes\KthPermutation\obj\Debug\net6.0\ref\KthPermutation.dll

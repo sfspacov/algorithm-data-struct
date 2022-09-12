@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Climbing-the-Leaderboard/1.0.0": {
+        "runtime": {
+          "Climbing-the-Leaderboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Climbing-the-Leaderboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

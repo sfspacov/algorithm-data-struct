@@ -1,0 +1,15 @@
+C:\src\personal\hackerrank\Parentheses\Parentheses\bin\Debug\net6.0\Parentheses.exe
+C:\src\personal\hackerrank\Parentheses\Parentheses\bin\Debug\net6.0\Parentheses.deps.json
+C:\src\personal\hackerrank\Parentheses\Parentheses\bin\Debug\net6.0\Parentheses.runtimeconfig.json
+C:\src\personal\hackerrank\Parentheses\Parentheses\bin\Debug\net6.0\Parentheses.dll
+C:\src\personal\hackerrank\Parentheses\Parentheses\bin\Debug\net6.0\Parentheses.pdb
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.AssemblyInfo.cs
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.dll
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\refint\Parentheses.dll
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.pdb
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\Parentheses.genruntimeconfig.cache
+C:\src\personal\hackerrank\Parentheses\Parentheses\obj\Debug\net6.0\ref\Parentheses.dll

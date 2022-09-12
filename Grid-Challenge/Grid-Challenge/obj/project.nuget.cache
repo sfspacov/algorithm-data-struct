@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ww7fXjroW9bEj/2de0RTUecXvVAoU8mLpUaJJXr4QX/EylcykOoezq2p0aht9xO2NRGxnGtu+Qjo+s5n0W7+sA==",
+  "success": true,
+  "projectFilePath": "c:\\src\\algorithms\\hackerrank\\Grid-Challenge\\Grid-Challenge\\Grid-Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephan Spacov\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stephan Spacov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stephan Spacov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stephan Spacov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

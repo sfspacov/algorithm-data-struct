@@ -1,0 +1,15 @@
+C:\src\personal\hackerrank\HourGlass\HourGlass\bin\Debug\net6.0\HourGlass.exe
+C:\src\personal\hackerrank\HourGlass\HourGlass\bin\Debug\net6.0\HourGlass.deps.json
+C:\src\personal\hackerrank\HourGlass\HourGlass\bin\Debug\net6.0\HourGlass.runtimeconfig.json
+C:\src\personal\hackerrank\HourGlass\HourGlass\bin\Debug\net6.0\HourGlass.dll
+C:\src\personal\hackerrank\HourGlass\HourGlass\bin\Debug\net6.0\HourGlass.pdb
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.csproj.AssemblyReference.cache
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.AssemblyInfoInputs.cache
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.AssemblyInfo.cs
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.csproj.CoreCompileInputs.cache
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.dll
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\refint\HourGlass.dll
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.pdb
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\HourGlass.genruntimeconfig.cache
+C:\src\personal\hackerrank\HourGlass\HourGlass\obj\Debug\net6.0\ref\HourGlass.dll
