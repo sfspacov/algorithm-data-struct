@@ -12,29 +12,23 @@ graph.Add(10, new int[] { 11 });
 graph.Add(11, new int[] { 12 });
 graph.Add(12, new int[] { });
 
-DeepthFirstSearch(graph, 1);
+BreadthFirstSearch(graph, 1);
 
-List<int> DeepthFirstSearch(Dictionary<int, int[]> graph, int start)
+List<int> BreadthFirstSearch(Dictionary<int, int[]> graph, int start)
 {
     var visited = new List<int>();
-    var stack = new Stack<int>();
-    stack.Push(start);
+    var queue = new Queue<int>();
+    queue.Enqueue(start);
 
     while (visited.Count <= graph.Count)
     {
-        var current = stack.Pop();
+        var current = queue.Dequeue();
         visited.Add(current);
 
         foreach (var vertices in graph.Where(x => x.Key == current))
-        {
             foreach (var item in vertices.Value)
-            {
                 if (!visited.Contains(item))
-                {
-                    stack.Push(item);
-                }
-            }
-        }
+                    queue.Enqueue(item);
 
         if (visited.Count == graph.Count)
             break;

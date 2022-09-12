@@ -29,9 +29,11 @@ class MaxHeap
         for (var i = Size; i / 2 > 0; i /= 2)
         {
             var parentIndex = i / 2 - 1;
-            var parent = Items[parentIndex];
             var childIndex = i - 1;
+
+            var parent = Items[parentIndex];
             var child = Items[i - 1];
+
             if (parent < child)
             {
                 Items[parentIndex] = Items[childIndex];
@@ -43,6 +45,7 @@ class MaxHeap
             }
         }
     }
+
     /// <summary>
     /// Return the minimum value of the tree (the root)
     /// </summary>
@@ -51,29 +54,22 @@ class MaxHeap
     {
         if (IsEmpyt())
             throw new Exception("The tree is empty");
-        return Items[1];
+        return Items[0];
     }
 
-    private int ReturnLeft(int i)
+    public int Delete()
     {
-        return Items[1 + i * 2];
-    }
-
-    private int ReturnRight(int i)
-    {
-        return Items[2 + i * 2];
-    }
-
-    public void Delete()
-    {
+        var deleted = Get();
         RemoveRoot();
+        
         var originalSize = Size;
         var i = 0;
         var leftIndex = i + 1;
         var rightIndex = i + 2;
-        while (leftIndex <= originalSize)
+
+        while (rightIndex < originalSize)
         {
-            if (rightIndex >= originalSize || Items[leftIndex] > Items[rightIndex])
+            if (Items[leftIndex] > Items[rightIndex])
             {
                 Swap(i, leftIndex);
                 i = i * 2 + 1;
@@ -87,20 +83,16 @@ class MaxHeap
             leftIndex = i * 2 + 1;
             rightIndex = i * 2 + 2;
         }
+
+        return deleted;
     }
 
-    private void RecalculateIndexes(ref int nodeIndex, ref int nextIndex)
+    private void Swap(int nodeIndex, int childIndex)
     {
-        nodeIndex = nextIndex;
-        nextIndex = nextIndex % 2 == 0 ? nodeIndex * 2 : nodeIndex * 2 + 1;
-    }
-
-    private void Swap(int nodeIndex, int nextIndex)
-    {
-        if (nextIndex < Size && Items[nodeIndex] < Items[nextIndex])
+        if (childIndex < Size && Items[nodeIndex] < Items[childIndex])
         {
-            var temp = Items[nextIndex];
-            Items[nextIndex] = Items[nodeIndex];
+            var temp = Items[childIndex];
+            Items[childIndex] = Items[nodeIndex];
             Items[nodeIndex] = temp;
         }
     }

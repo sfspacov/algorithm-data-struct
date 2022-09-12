@@ -1,6 +1,7 @@
 from collections import deque
 import sys
 
+
 class Queue:
     def __init__(self):
         self.items = deque()
@@ -24,6 +25,7 @@ class Queue:
     def __str__(self):
         return str(self.items)
 
+
 class Node:
     def __init__(self, data):
         self.left = None
@@ -36,8 +38,7 @@ class Node:
             self.left.PrintTree()
         if (self.right != None):
             self.right.PrintTree()
-        
-    
+
     def PrintTreeLevels(self):
         if (self.left == None and self.right == None):
             print(self.data)
@@ -50,7 +51,7 @@ class Node:
             print(value.data)
             if current_level.is_empty():
                 print("\n")
-                
+
                 while not next_level.is_empty():
                     current_level.enqueue(next_level.dequeue())
 
@@ -70,12 +71,22 @@ class Node:
 
         if root.data < min_value or root.data > max_value:
             return False
-        
+
         #      check if left root is bst                            check if right tree is bst
         return self.is_bst_rec(root.left, min_value, root.data) and self.is_bst_rec(root.right, root.data, max_value)
 
     def is_bst(self):
         return self.is_bst_rec(self, -sys.maxsize - 1, sys.maxsize)
+
+    def size(self, root):
+        if root == None:
+            return 0
+
+        left = self.heigth(root.left)
+
+        right = self.heigth(root.right)
+
+        return 1 + left + right
 
 
 if __name__ == "__main__":
@@ -94,6 +105,7 @@ if __name__ == "__main__":
     n200.left = n125
     n200.right = n350
     #n350.left = n351
-    #n100.PrintTree()
+    # n100.PrintTree()
     print(n100.is_bst())
     n100.PrintTreeLevels()
+    print(n100.heigth(n100))

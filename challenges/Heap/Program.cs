@@ -52,8 +52,8 @@ void MaxHeapOperations()
     var originalSize = mh.Size;
     for (int i = 0; i < originalSize; i++)
     {
-        Console.WriteLine("\nDelete");
-        mh.Delete();
+        Console.WriteLine($"\nDelete:  {mh.Delete()}");
+
         mh.Print();
     }
 }
