@@ -37,9 +37,10 @@ class Graph
             Console.WriteLine(nodeValue);
             visited.Add(nodeValue);
 
-            var vertices = Nodes.First(x => x.Key == nodeValue).Value.Where(x => !visited.Contains(x));
+            var nonVisitedVertices = (Nodes.First(x => x.Key == nodeValue).Value)
+									 .Where(x => !visited.Contains(x));
 
-            foreach (var vertice in vertices)
+            foreach (var vertice in nonVisitedVertices)
                 queue.Enqueue(vertice);
 
             if (Nodes.Count == visited.Count)
@@ -63,9 +64,10 @@ class Graph
             Console.WriteLine(nodeValue);
             visited.Add(nodeValue);
 
-            var vertices = Nodes.First(x => x.Key == nodeValue).Value.Where(x => !visited.Contains(x));
+            var nonVisitedVertices = (Nodes.First(x => x.Key == nodeValue).Value)
+									 .Where(x => !visited.Contains(x));
 
-            foreach (var vertice in vertices)
+            foreach (var vertice in nonVisitedVertices)
                 stack.Push(vertice);
 
             if (visited.Count == Nodes.Count)

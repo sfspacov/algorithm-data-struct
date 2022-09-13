@@ -25,10 +25,11 @@ List<int> BreadthFirstSearch(Dictionary<int, int[]> graph, int start)
         var current = queue.Dequeue();
         visited.Add(current);
 
-        foreach (var vertices in graph.Where(x => x.Key == current))
-            foreach (var item in vertices.Value)
-                if (!visited.Contains(item))
-                    queue.Enqueue(item);
+		var nonVisitedVertices = (graph.First(x => x.Key == current).Value)
+						.Where(vertice => !visited.Contains(vertice);
+						
+        foreach (var vertice in nonVisitedVertices)                
+                    queue.Enqueue(vertice);
 
         if (visited.Count == graph.Count)
             break;

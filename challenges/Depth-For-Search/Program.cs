@@ -25,16 +25,11 @@ List<int> DeepthFirstSearch(Dictionary<int, int[]> graph, int start)
         var current = stack.Pop();
         visited.Add(current);
 
-        foreach (var vertices in graph.Where(x => x.Key == current))
-        {
-            foreach (var item in vertices.Value)
-            {
-                if (!visited.Contains(item))
-                {
-                    stack.Push(item);
-                }
-            }
-        }
+		var nonVisitedVertices = (graph.First(x => x.Key == current).Value)
+								 .Where(vertice => !visited.Contains(item));
+		
+		foreach (var vertice in nonVisitedVertices)
+				stack.Push(vertice);     
 
         if (visited.Count == graph.Count)
             break;
