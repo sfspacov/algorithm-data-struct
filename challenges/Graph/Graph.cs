@@ -37,15 +37,10 @@ class Graph
             Console.WriteLine(nodeValue);
             visited.Add(nodeValue);
 
-            var vertices = new HashSet<int>(Nodes.First(x => x.Key == nodeValue).Value);
+            var vertices = Nodes.First(x => x.Key == nodeValue).Value.Where(x => !visited.Contains(x));
 
-            if (vertices.Any())
-            {
-                vertices.ExceptWith(visited);
-
-                foreach (var vertice in vertices)
-                    queue.Enqueue(vertice);
-            }
+            foreach (var vertice in vertices)
+                queue.Enqueue(vertice);
 
             if (Nodes.Count == visited.Count)
                 break;
@@ -68,15 +63,10 @@ class Graph
             Console.WriteLine(nodeValue);
             visited.Add(nodeValue);
 
-            var vertices = new HashSet<int>(Nodes.First(x => x.Key == nodeValue).Value);
-            
-            if (vertices.Any())
-            {
-                vertices.ExceptWith(visited);
+            var vertices = Nodes.First(x => x.Key == nodeValue).Value.Where(x => !visited.Contains(x));
 
-                foreach (var vertice in vertices)
-                    stack.Push(vertice);
-            }
+            foreach (var vertice in vertices)
+                stack.Push(vertice);
 
             if (visited.Count == Nodes.Count)
                 break;
