@@ -1,0 +1,15 @@
+Which type of files?
+Politeness/Crawlrate
+DNS query
+Distributed crawling
+Priority crawling
+Duplicate detection
+
+SCALE
+900M registerd websites
+60% -> 500M
+100 pages avg
+
+Target -> 50B pages
+120 kb AVG size
+6 PB -> 3PB (compressed)

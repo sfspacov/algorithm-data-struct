@@ -35,3 +35,15 @@ TIPS
 2. Avoid silver bullet
 3. Keep it simple stupid!
 4. Thiking a lot before say something, eles vao me amassar!
+
+
+
+HOT and COLD Storage: S3 and Glacier
+
+Platform		"Hot"		"Cold"		Common Key Criteria
+
+High-Speed Caching	Computer RAM	SSD		Data Latency
+
+File Servers		SSD		HDD		IOPS
+
+Backup Archive		HDD		Tape		Bandwidth
