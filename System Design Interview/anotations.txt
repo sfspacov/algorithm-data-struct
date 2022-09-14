@@ -1,0 +1,37 @@
+Start asking about funtional and non-funtional features
+	- They're waiting for questions that ask for important requirements
+	- Ask about how many users will use the system
+	- If the system is global or not
+
+USE THESE:	
+	- Gateway Load Balancer: AWS and Azure offers it
+	- Replicas: Master/Slave
+		- NoSql to high scalability
+		- Sql to structured information
+			- Sharding, even that not so easy
+	- Cache: Creates when it's read from Slave and can have job to update it
+	- S3 and CDN to stack content
+		- Hot/Cold store on S3
+	- Message Broker to exchange messages through apis
+	- Parallel process
+	- Horizontal scale
+
+Design Patterns
+	- Pub/Sub
+	- Retry
+	- Fault tolerance (return default value)
+	- Repository
+
+Chat:
+	- TCP connections, because it's possible maintain it
+		- Websockets, XMPP (WhatsApp use it)
+	
+Video:
+	RTMP (over TCP), HLS (over HTTP)
+	
+TIPS
+1. Don't get into details prematurely
+	- Don't talk to much, without stop
+2. Avoid silver bullet
+3. Keep it simple stupid!
+4. Thiking a lot before say something, eles vao me amassar!

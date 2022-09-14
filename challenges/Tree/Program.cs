@@ -1,10 +1,45 @@
-﻿var root = new Node(3);
-root.Left = new Node(2);
-root.Right = new Node(4);
-root.Left.Left = new Node(12);
-root.Left.Right = new Node(50);
-root.Right.Right = new Node(18);
-root.Right.Left = new Node(7);
+﻿var root = new Node
+{
+    Data = 1,
+    Left = new Node
+    {
+        Data = 2,
+        Right = new Node
+        {
+            Data = 9,
+            Right = new Node
+            {
+                Data = -19,
+                Right = new Node
+                {
+                    Data = 33
+                }
+            }
+        }
+    },
+    Right = new Node
+    {
+        Data = 3,
+        Left = new Node
+        {
+            Data = 8
+        },
+        Right = new Node
+        {
+            Data = 5
+        }
+    }
+};
+
+
+
+var root2 = new Node(3);
+root2.Left = new Node(2);
+root2.Right = new Node(4);
+root2.Left.Left = new Node(12);
+root2.Left.Right = new Node(50);
+root2.Right.Right = new Node(18);
+root2.Right.Left = new Node(7);
 
 // // /*
 // //             3
