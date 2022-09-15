@@ -1,7 +1,18 @@
 Start asking about funtional and non-funtional features
 	- They're waiting for questions that ask for important requirements
-	- Ask about how many users will use the system
-	- If the system is global or not
+	- DON'T ESTIMATE USERS WITHOUT ANY REASONS.
+		- IF DO IT, TELL MY CONCERN ABOUT IT (STORAGE, SERVERS,...)
+		- For example, how many users will use the system
+		- The system is global or not
+	- Trade off: 
+		- Explain why to choose this solution (about Core when asked)
+
+- DON'T EXPLAIN EVERY PEACE OF MY SOLUTION (i.e. GATEWAY OR LB)
+- KNOW ABOUT PROTOCOLS USED
+	- HTTP (api requests)
+	- RTMP (Streams)
+	- WebRTC (video calls)
+	- Websockets (chats and notifications?)
 
 USE THESE:	
 	- Gateway Load Balancer: AWS and Azure offers it
@@ -47,3 +58,14 @@ High-Speed Caching	Computer RAM	SSD		Data Latency
 File Servers		SSD		HDD		IOPS
 
 Backup Archive		HDD		Tape		Bandwidth
+
+Cassandra x Mongo
+Mongo is a json
+Cassandra
+	- has multiple Masters Nodes
+		- what can guarantees 100% data availability for writes	
+		- multiple write operations (more scalable)
+	- DataModel with rows and coluns and typed
+	- Cassandra query language (CQL) is quite similar to SQL
+	- For aggregations needs third party (hadoop, spark)
+	- It's free!!

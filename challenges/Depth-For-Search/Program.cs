@@ -16,7 +16,7 @@ DeepthFirstSearch(graph, 1);
 
 List<int> DeepthFirstSearch(Dictionary<int, int[]> graph, int start)
 {
-    var visited = new List<int>();
+    var visited = new HashSet<int>();
     var stack = new Stack<int>();
     stack.Push(start);
 
