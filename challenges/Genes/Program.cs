@@ -23,15 +23,28 @@ Output
 
 var genes = new string[] { "TGCAG", "ACCC", "A" };
 var characters = "TGCAGGACCCT";
-var hashChars = new HashSet<string>();
+var charArray = new List<char>();
+var boolArray = new List<bool>();
+var counter = 0;
 
-find(genes, characters);
+foreach (var c in characters)
+    Console.WriteLine(find(genes, c, counter++));
 
-bool find(string[] genes, string characters)
+bool find(string[] genes, char c, int counter)
 {
-    foreach (var g in genes)
+    charArray.Add(c);
+
+    if (charArray.Count == 1 && genes.Contains(new string(charArray.ToArray())))
+        return true;
+
+    int l = 0, r = counter;
+
+    while (l <= r)
     {
-        if (characters.Contains(g))
+        if (genes.Contains(new string(charArray.Skip(l++).ToArray())))
+            return true;
+
+        if (genes.Contains(new string(charArray.Skip(r--).ToArray())))
             return true;
     }
 
