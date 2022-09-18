@@ -24,7 +24,6 @@ Output
 var genes = new string[] { "TGCAG", "ACCC", "A" };
 var characters = "TGCAGGACCCT";
 var charArray = new List<char>();
-var boolArray = new List<bool>();
 var counter = 0;
 
 foreach (var c in characters)
@@ -34,17 +33,17 @@ bool find(string[] genes, char c, int counter)
 {
     charArray.Add(c);
 
-    if (charArray.Count == 1 && genes.Contains(new string(charArray.ToArray())))
+    var geneOfSizeOne = new string(charArray.ToArray());
+
+    if (charArray.Count == 1 && genes.Contains(geneOfSizeOne))
         return true;
 
-    int l = 0, r = counter;
+    int l = 0;
 
-    while (l <= r)
+    while (l <= counter)
     {
-        if (genes.Contains(new string(charArray.Skip(l++).ToArray())))
-            return true;
-
-        if (genes.Contains(new string(charArray.Skip(r--).ToArray())))
+        var partialGene = new string(charArray.Skip(l++).ToArray());
+        if (genes.Contains(partialGene))
             return true;
     }
 
